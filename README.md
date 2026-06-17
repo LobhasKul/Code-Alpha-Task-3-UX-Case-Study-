@@ -1,5 +1,7 @@
 # Code-Alpha-Task-3-UX-Case-Study-
 
+**Figma Link:** https://www.figma.com/design/J9ykOxn9iiaBr11cWfguqG/Enhanced-User-Experience-Features?node-id=0-1&t=4foZXsmzFLVCVWoU-1
+
 **Project Overview**
 This project is a User Experience (UX) Case Study of the Zomato application, conducted as part of the Code Alpha UI/UX Design Internship. The study evaluates the overall user experience by analyzing the user journey, interface design, navigation flow, strengths, and usability challenges within the application. The project focuses on understanding how users interact with the platform while searching for restaurants, ordering food, making payments, and tracking deliveries. Based on the analysis, UX improvements have been proposed to enhance usability, transparency, and convenience.
 
