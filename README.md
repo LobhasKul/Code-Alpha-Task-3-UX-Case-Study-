@@ -13,6 +13,11 @@ This project is a User Experience (UX) Case Study of the Zomato application, con
 5. Propose user-centered design improvements.
 6. Create mockups demonstrating the proposed solutions.
 
+**Tools Used**
+1. Figma
+2. Microsoft Word
+3. PDF Documentation
+
 **Target Users**
 1. Students
 2. Working Professionals
@@ -69,8 +74,3 @@ This project is a User Experience (UX) Case Study of the Zomato application, con
 2. Personalized experience
 3. Increased repeat purchases
 4. Higher user satisfaction
-
-**Tools Used**
-1. Figma
-2. Microsoft Word
-3. PDF Documentation
