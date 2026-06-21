@@ -13,44 +13,50 @@ This project is a User Experience (UX) Case Study of the Zomato application, con
 5. Propose user-centered design improvements.
 6. Create mockups demonstrating the proposed solutions.
 
+**Screens Included**
+  1. Transparent Pricing
+  2. Restaurant Comparison
+  3. Smart Reorder
+
 **Tools Used**
-1. Figma
-2. Microsoft Word
-3. PDF Documentation
+  1. Figma
+  2. Microsoft Word
+  3. PDF Documentation
 
 **Target Users**
-1. Students
-2. Working Professionals
-3. Families
-4. Food Enthusiasts
-5. Restaurant Customers
+  1. Students
+  2. Working Professionals
+  3. Families
+  4. Food Enthusiasts
+  5. Restaurant Customers
 
 **Key Features Analyzed**
-1. Food Ordering
-2. Restaurant Search
-3. Online Payments
-4. Real-Time Order Tracking
-5. Ratings & Reviews
-6. Dining Reservations
+  1. Food Ordering
+  2. Restaurant Search
+  3. Online Payments
+  4. Real-Time Order Tracking
+  5. Ratings & Reviews
+  6. Dining Reservations
 
 **Strengths Identified**
-1. Intuitive and easy navigation
-2. Fast and efficient search functionality
-3. Real-time order tracking
-4. Attractive visual design
-5. Multiple payment options
+  1. Intuitive and easy navigation
+  2. Fast and efficient search functionality
+  3. Real-time order tracking
+  4. Attractive visual design
+  5. Multiple payment options
 
 **Weaknesses Identified**
-1. Excessive promotional banners on the homepage
-2. Hidden charges visible only during checkout
-3. Difficulty comparing multiple restaurants
-4. Information overload causing decision fatigue
+  1. Excessive promotional banners on the homepage
+  2. Hidden charges visible only during checkout
+  3. Difficulty comparing multiple restaurants
+  4. Information overload causing decision fatigue
 
 **Proposed UX Improvements**
 
 **1. Transparent Pricing**
 **Problem:** Additional charges are often revealed only during checkout.
 **Solution:** Display estimated total cost, including fees and taxes, directly on the restaurant page.
+
 **Benefits**
 1. Better transparency
 2. Increased user trust
@@ -60,6 +66,7 @@ This project is a User Experience (UX) Case Study of the Zomato application, con
 **2. Restaurant Comparison**
 **Problem:** Users must switch between restaurants to compare important details.
 **Solution:** Introduce a side-by-side comparison feature.
+
 **Benefits**
 1. Faster decisions
 2. Reduced navigation effort
@@ -69,8 +76,11 @@ This project is a User Experience (UX) Case Study of the Zomato application, con
 **3. Smart Reorder**
 **Problem:** Frequent users repeatedly search for previously ordered items.
 **Solution:** Provide one-tap access to recent and favorite orders.
+
 **Benefits**
 1. Faster ordering
 2. Personalized experience
 3. Increased repeat purchases
 4. Higher user satisfaction
+
+**Outcome**: The UX case study successfully identified usability challenges within the Zomato application and proposed practical user-centered solutions. The designed mockups demonstrate how improved pricing transparency, restaurant comparison, and smart reordering features can enhance user satisfaction, reduce friction, and improve the overall food ordering experience.
